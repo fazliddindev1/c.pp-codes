@@ -8,7 +8,7 @@ Welcome to the C++ OOP Examples repository! This collection contains various C++
 
 - **Comprehensive Examples:** Covers all major OOP concepts in C++.
 - **Beginner-Friendly:** Clear and simple code with detailed comments and explanations.
-- **Diverse Topics:** Includes examples for classes, inheritance, polymorphism, encapsulation, abstraction, and more.
+- **Diverse Topics:** Includes classes, inheritance, polymorphism, encapsulation, abstraction, and more examples.
 - **Hands-On Learning:** Practical examples to help reinforce understanding of theoretical concepts.
 
 ## Topics Covered
