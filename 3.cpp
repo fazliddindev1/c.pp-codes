@@ -8,6 +8,7 @@ int main(){
 
     do {
         cout << endl;
+        cout << "---Fazliddin---" << endl;
         cout << "-----Menu-----" << endl;
         cout << "1. Calculate tax" << endl;
         cout << "2. Numbers +/-" << endl;
