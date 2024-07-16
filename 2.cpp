@@ -9,7 +9,7 @@ int main(){
     do {
     cout << endl;
     cout << "---Fazliddin---" << endl;
-    cout << "_____Menu_____" << endl;
+    cout << "___Menu___" << endl;
     cout << "1.Area and Circumference of Circle " << endl;
     cout << "2.Area of Scalene Triangle " << endl;
     cout << "3.Area of Equilateral Triangle " << endl;
