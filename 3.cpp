@@ -9,7 +9,7 @@ int main(){
     do {
         cout << endl;
         cout << "---Fazliddin---" << endl;
-        cout << "-----Menu-----" << endl;
+        cout << "___Menu___" << endl;
         cout << "1. Calculate tax" << endl;
         cout << "2. Numbers +/-" << endl;
         cout << "3. Grading steel" << endl;
