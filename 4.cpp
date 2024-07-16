@@ -5,6 +5,7 @@ int main(){
     int choice;
     do {
         cout << endl;
+        cout << "---Fazliddin---" << endl;
         cout << "-----Menu------" << endl;
         cout << "1.Sum of numbers from m to n" << endl;
         cout << "2.Fibonacci series" << endl;
