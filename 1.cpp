@@ -5,7 +5,7 @@ int main() {
     int choice;
     do {
         cout << endl;
-        court << "---Fazliddin---" << endl;
+        cout << "---Fazliddin---" << endl;
         cout << "___Menu___" << endl;
         cout << "1. Hello World" << endl;
         cout << "2. Variables" << endl;
