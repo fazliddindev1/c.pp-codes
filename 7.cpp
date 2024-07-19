@@ -97,6 +97,9 @@ int main(){
                 cout << "F(" << x << ", " << y << ") = " << F(x, y) << endl;
                 break;
             }
+            case 6:{
+                cout << "Exiting..." << endl;
+                break;
         }
 
     } while (choice!=6);
