@@ -85,6 +85,7 @@ int main() {
     do {
         cout << endl;
         cout << "---Menu---" << endl;
+        cout << "---Fazliddin---" << endl;
         cout << "1. Matrix Operations" << endl;
         cout << "2. Sales Data Management" << endl;
         cout << "3. Exit" << endl;
