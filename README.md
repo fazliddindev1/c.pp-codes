@@ -23,7 +23,3 @@ Welcome to the C++ Basics Examples repository! This collection contains various 
 8. **File I/O:** Reading from and writing to files.
 
 ## How to Use
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/yourusername/cpp-basics-examples.git
