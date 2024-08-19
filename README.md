@@ -21,5 +21,3 @@ Welcome to the C++ Basics Examples repository! This collection contains various 
 6. **Strings:** C-style strings, string class.
 7. **Structures:** Defining and using structures.
 8. **File I/O:** Reading from and writing to files.
-
-## How to Use
